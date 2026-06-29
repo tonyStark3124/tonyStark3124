@@ -22,3 +22,8 @@ Full-stack developer focused on AI integrations, data tools, and shipping real p
 - Finishing national service (tech specialist, operations HQ)
 - Open to full-stack / AI developer roles
 
+## Contact
+
+- 📧 tuviahefets@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuvia-hefets)
+
