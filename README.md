@@ -25,5 +25,5 @@ Full-stack developer focused on AI integrations, data tools, and shipping real p
 ## Contact
 
 - 📧 tuviahefets@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuvia-hefets)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuviahefets/)
 
